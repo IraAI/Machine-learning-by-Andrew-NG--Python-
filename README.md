@@ -1,4 +1,4 @@
-# Machine learning by Andrew NG on Python
+# Machine learning by Andrew NG (Python)
 Сontent:
 
 Gradient Decent and Linear Regression (with one and multiple variables)
